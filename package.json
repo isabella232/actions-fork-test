@@ -10,7 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/zeit/actions-fork-test.git"
   },
-  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/zeit/actions-fork-test/issues"
